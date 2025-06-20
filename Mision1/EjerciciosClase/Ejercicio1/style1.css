@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    background-image: url("./assets/fondo.png");
+    justify-items: center;
+}
+
+.formulario{
+    background-color: rgba(108, 181, 255, 0.3);
+    width: 50%;
+    height: 300px;
+    border: solid 5px  rgb(6, 131, 131, 0.1);
+    margin-top: 10%;
+}
+
+#input-edad{
+    margin-top: 5%;
+    padding: 5%;
+}
